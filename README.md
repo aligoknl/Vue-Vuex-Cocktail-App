@@ -2,7 +2,7 @@
 
 ## 1. Link
 
-Project link is available at [Cocktail App](https://github.com/)
+Project link is available at [Cocktail App](https://whimsical-trifle-8d4631.netlify.app/)
 
 ## 2. Description
 
